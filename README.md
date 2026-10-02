@@ -1,6 +1,6 @@
 # NestJS starter for Railway
 
-A NestJS 11 API on Prisma 7 and Postgres, with nothing to fill in before it
+A NestJS 12 API on Prisma 7 and Postgres, with nothing to fill in before it
 deploys.
 
 ## Why this exists
